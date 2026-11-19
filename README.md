@@ -155,7 +155,7 @@ flutter test         # testes do repositório e da tela inicial
 
 ## Vídeo pitch
 
-Link do YouTube: _adicionar o link público do vídeo aqui_
+Link do YouTube: https://youtu.be/LyXDn6NMR7k
 
 ## Créditos das imagens
 
